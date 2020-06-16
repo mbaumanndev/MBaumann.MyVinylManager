@@ -1,0 +1,1 @@
+# MBaumann.MyVinylManager
